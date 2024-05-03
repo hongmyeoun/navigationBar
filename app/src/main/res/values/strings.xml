@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scaffold</string>
+    <string name="Home">Home</string>
+    <string name="Bell">Bell</string>
+    <string name="Plus">Plus</string>
+    <string name="Calendar">Calendar</string>
+    <string name="Settings">Settings</string>
+</resources>
